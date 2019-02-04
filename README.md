@@ -66,7 +66,7 @@ oracle = degreeDiscountIAC3
 Result on NetHEPT dataset: 27770 nodes, 352807 edges
 
 <p float="left">
-<img src="./SimulationResults/AvgReward_NETHEPT.png" alt="alt text" width="400" height="300">
+<img src="./SimulationResults/AvgReward_NetHEPT.png" alt="alt text" width="400" height="300">
 <img src="./SimulationResults/loss_NetHEPT.png" alt="alt text" width="400" height="300">
 </p>
 
