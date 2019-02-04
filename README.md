@@ -35,8 +35,8 @@ oracle = degreeDiscountIAC3
 Result on Flickr dataset: 12812 nodes, 137986 edges
 
 <p float="left">
-<img src="./SimulationResults/AvgReward_Flickr.pdf" alt="alt text" width="400" height="300">
-<img src="./SimulationResults/loss_Flickr.pdf" alt="alt text" width="400" height="300">
+<img src="./SimulationResults/AvgReward_Flickr.png" alt="alt text" width="400" height="300">
+<img src="./SimulationResults/loss_Flickr.png" alt="alt text" width="400" height="300">
 </p>
 
 #### Parameter
@@ -66,7 +66,7 @@ oracle = degreeDiscountIAC3
 Result on NetHEPT dataset: 27770 nodes, 352807 edges
 
 <p float="left">
-<img src="./SimulationResults/AvgReward_NETHEPT.pdf" alt="alt text" width="400" height="300">
-<img src="./SimulationResults/loss_NetHEPT.pdf" alt="alt text" width="400" height="300">
+<img src="./SimulationResults/AvgReward_NETHEPT.png" alt="alt text" width="400" height="300">
+<img src="./SimulationResults/loss_NetHEPT.png" alt="alt text" width="400" height="300">
 </p>
 
