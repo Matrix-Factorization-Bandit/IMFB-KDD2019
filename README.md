@@ -1,12 +1,16 @@
 # IMBandits
 
-IMBandit.py -- Simulator.
+IMBandit.py -- Simulator. Can run the experiments with command ```python IMBandit.py``` 
 
 BanditAlg -- Baselines for running influence maximization problems.
 
 Oracle/degreeDiscount.py, generalGreedy.py -- Two different oracles (IM algorithm).
 
 IC/IC.py -- Independent cascade model, runIC() returns influence result given seed nodes.
+
+conf.py -- The relative parameters used for the experiments. 
+
+SimulationResults -- The folder saved for the results. 
 
 ### Result
 
